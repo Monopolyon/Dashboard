@@ -1,0 +1,4 @@
+If the original design file had a resolution of 4K (3840 x 2160) or at least FullHD (1920 * 1080), the layout result would be more flexible, and in the first case it would save layout time
+
+
+В случае если бы исходный файл дизайна придеривался разрешения 4К (3840 x 2160) или хотябы FullHD (1920 * 1080), результат верстки был бы более гибким,а в перов случае позволил бы секономить время верстки
